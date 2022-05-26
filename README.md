@@ -28,7 +28,7 @@ lista livros-----------3 CRUD
 Atributos de user 
 -Nome:
 -cargo: 
--Nome da bibloteca: 
+-Nome da biblioteca: 
 -login: 
 -senha:
 
